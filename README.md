@@ -28,3 +28,15 @@ For every problem, I aim to maintain consistency by following a structured break
 └── Notes/
     ├── Common_Patterns.md
     └── Complexity_Cheat_Sheet.md
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+|  |
+| ------- |
+| [0940-distinct-subsequences-ii](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0940-distinct-subsequences-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0940-distinct-subsequences-ii](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0940-distinct-subsequences-ii) |
+<!---LeetCode Topics End-->

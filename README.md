@@ -39,4 +39,8 @@ For every problem, I aim to maintain consistency by following a structured break
 |  |
 | ------- |
 | [0940-distinct-subsequences-ii](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0940-distinct-subsequences-ii) |
+## Math
+|  |
+| ------- |
+| [3870-count-commas-in-range](https://github.com/Shivanigupta00/DSA-Notes/tree/master/3870-count-commas-in-range) |
 <!---LeetCode Topics End-->

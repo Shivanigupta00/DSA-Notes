@@ -38,9 +38,15 @@ For every problem, I aim to maintain consistency by following a structured break
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0070-climbing-stairs) |
 | [0940-distinct-subsequences-ii](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0940-distinct-subsequences-ii) |
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0070-climbing-stairs) |
 | [3870-count-commas-in-range](https://github.com/Shivanigupta00/DSA-Notes/tree/master/3870-count-commas-in-range) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

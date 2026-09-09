@@ -55,8 +55,10 @@ For every problem, I aim to maintain consistency by following a structured break
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->

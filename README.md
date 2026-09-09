@@ -45,6 +45,7 @@ For every problem, I aim to maintain consistency by following a structured break
 | ------- |
 | [0070-climbing-stairs](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0070-climbing-stairs) |
 | [3870-count-commas-in-range](https://github.com/Shivanigupta00/DSA-Notes/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/Shivanigupta00/DSA-Notes/tree/master/3871-count-commas-in-range-ii) |
 ## Memoization
 |  |
 | ------- |

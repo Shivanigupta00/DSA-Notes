@@ -44,10 +44,19 @@ For every problem, I aim to maintain consistency by following a structured break
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0189-rotate-array) |
 | [3870-count-commas-in-range](https://github.com/Shivanigupta00/DSA-Notes/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Shivanigupta00/DSA-Notes/tree/master/3871-count-commas-in-range-ii) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0070-climbing-stairs) |
+## Array
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0189-rotate-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->

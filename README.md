@@ -54,6 +54,7 @@ For every problem, I aim to maintain consistency by following a structured break
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0001-two-sum) |
 | [0051-n-queens](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0051-n-queens) |
 | [0189-rotate-array](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0283-move-zeroes) |
@@ -84,4 +85,8 @@ For every problem, I aim to maintain consistency by following a structured break
 | ------- |
 | [0051-n-queens](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0052-n-queens-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->

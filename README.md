@@ -58,6 +58,7 @@ For every problem, I aim to maintain consistency by following a structured break
 | [0051-n-queens](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0051-n-queens) |
 | [0189-rotate-array](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0283-move-zeroes) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Shivanigupta00/DSA-Notes/tree/master/3483-unique-3-digit-even-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -89,4 +90,13 @@ For every problem, I aim to maintain consistency by following a structured break
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0001-two-sum) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Shivanigupta00/DSA-Notes/tree/master/3483-unique-3-digit-even-numbers) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Shivanigupta00/DSA-Notes/tree/master/3483-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Shivanigupta00/DSA-Notes/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->

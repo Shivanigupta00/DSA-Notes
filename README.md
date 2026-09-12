@@ -38,6 +38,7 @@ For every problem, I aim to maintain consistency by following a structured break
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0070-climbing-stairs) |
 | [0940-distinct-subsequences-ii](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0940-distinct-subsequences-ii) |
 ## Math
@@ -58,6 +59,7 @@ For every problem, I aim to maintain consistency by following a structured break
 | [0001-two-sum](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0051-n-queens](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0053-maximum-subarray) |
 | [0189-rotate-array](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0283-move-zeroes) |
@@ -134,4 +136,8 @@ For every problem, I aim to maintain consistency by following a structured break
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0287-find-the-duplicate-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->

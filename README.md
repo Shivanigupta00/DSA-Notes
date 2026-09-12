@@ -35,6 +35,7 @@ For every problem, I aim to maintain consistency by following a structured break
 |  |
 | ------- |
 | [0940-distinct-subsequences-ii](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0940-distinct-subsequences-ii) |
+| [1540-can-convert-string-in-k-moves](https://github.com/Shivanigupta00/DSA-Notes/tree/master/1540-can-convert-string-in-k-moves) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -101,6 +102,7 @@ For every problem, I aim to maintain consistency by following a structured break
 | [0001-two-sum](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0560-subarray-sum-equals-k) |
+| [1540-can-convert-string-in-k-moves](https://github.com/Shivanigupta00/DSA-Notes/tree/master/1540-can-convert-string-in-k-moves) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Shivanigupta00/DSA-Notes/tree/master/3483-unique-3-digit-even-numbers) |
 ## Recursion
 |  |

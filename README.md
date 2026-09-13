@@ -66,6 +66,7 @@ For every problem, I aim to maintain consistency by following a structured break
 | [0283-move-zeroes](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0560-subarray-sum-equals-k) |
+| [0835-image-overlap](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0835-image-overlap) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Shivanigupta00/DSA-Notes/tree/master/3483-unique-3-digit-even-numbers) |
 ## Two Pointers
 |  |
@@ -142,4 +143,8 @@ For every problem, I aim to maintain consistency by following a structured break
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0053-maximum-subarray) |
+## Matrix
+|  |
+| ------- |
+| [0835-image-overlap](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0835-image-overlap) |
 <!---LeetCode Topics End-->

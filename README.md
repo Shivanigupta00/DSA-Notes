@@ -74,6 +74,7 @@ For every problem, I aim to maintain consistency by following a structured break
 | [0268-missing-number](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0560-subarray-sum-equals-k) |
 | [0835-image-overlap](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0835-image-overlap) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Shivanigupta00/DSA-Notes/tree/master/3483-unique-3-digit-even-numbers) |
@@ -116,6 +117,7 @@ For every problem, I aim to maintain consistency by following a structured break
 | [0128-longest-consecutive-sequence](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0560-subarray-sum-equals-k) |
 | [1540-can-convert-string-in-k-moves](https://github.com/Shivanigupta00/DSA-Notes/tree/master/1540-can-convert-string-in-k-moves) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Shivanigupta00/DSA-Notes/tree/master/3483-unique-3-digit-even-numbers) |
@@ -143,6 +145,7 @@ For every problem, I aim to maintain consistency by following a structured break
 | ------- |
 | [0169-majority-element](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0347-top-k-frequent-elements) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -160,6 +163,7 @@ For every problem, I aim to maintain consistency by following a structured break
 | ------- |
 | [0053-maximum-subarray](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0347-top-k-frequent-elements) |
 ## Matrix
 |  |
 | ------- |
@@ -172,6 +176,7 @@ For every problem, I aim to maintain consistency by following a structured break
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0347-top-k-frequent-elements) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -180,4 +185,16 @@ For every problem, I aim to maintain consistency by following a structured break
 |  |
 | ------- |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Shivanigupta00/DSA-Notes/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->

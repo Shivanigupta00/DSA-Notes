@@ -1,0 +1,105 @@
+class Solution {
+public:
+    void dfs(int node, vector<vector<int>>& g, vector<int>&vis, stack<int>& st){
+        vis[node] = 1;
+        for(auto ch: g[node]){
+            if(vis[ch]) continue;
+            dfs(ch,g,vis,st);
+        }
+        st.push(node);
+    }
+    void dfs2(int node,vector<vector<int>>& gr, vector<int>& v, vector<int>& temp){
+        v[node]=1;
+        if(gr[node].size()==0) return;
+        temp.push_back(node);
+        for(auto ch: gr[node]){
+            if(v[ch]) continue;
+            dfs2(ch,gr,v,temp);
+        }
+    }
+    void dfs_to_check(int v,vector<vector<int>>& g, map<int,int> & mp, vector<int>&visi, bool &flg){
+        visi[v]=1;
+        for(auto ch:g[v]){
+            if(mp[ch]!= 1){
+                flg = false;
+                return;
+            }
+            if(!visi[ch]){
+                dfs_to_check(ch,g,mp,visi,flg);
+            }
+        }
+    }
+    vector<string> maxNumOfSubstrings(string s) {
+        int n = s.size();
+        vector<int> l(26,INT_MAX), r(26,INT_MIN);
+        for(int i = 0; i<n; i++){
+            l[s[i] - 'a'] = min(l[s[i]-'a'],i);
+            r[s[i]-'a'] = i;
+        }
+
+        vector<vector<int>>g(27);
+        //graph form
+        for(int i = 0; i<n; i++){
+            for(int j = 0; j<26; j++){
+                if(l[s[i]-'a'] != INT_MAX){
+                    if(l[j] <= i && r[j] >= i){
+                        g[j].push_back(s[i]-'a');
+                    
+                    }
+                }
+            }
+        }
+        //step 1
+        n = 26;
+        stack<int>end_time;
+        vector<int>vis(n,0);
+        for(int i = 0; i<n; i++){
+            if(!vis[i]){
+                dfs(i,g,vis,end_time);
+            }
+        }
+        //step 2
+        vector<vector<int>>gr(n);
+        for(int i = 0; i<n; i++){
+            for(auto ch:g[i]){
+                gr[ch].push_back(i);
+            }
+        }
+
+        //step 3
+        vector<int> v(n,0);
+        vector<int> degree(n,0);
+        vector<vector<int>> scc;
+        for(int i=0;i<n;i++){
+            int node = end_time.top(); end_time.pop();
+            if(v[node]) continue;
+            vector<int> temp;
+            dfs2(node,gr,v,temp);
+            scc.push_back(temp);
+        }
+
+        vector<string>ans;
+        for(auto it: scc){
+            vector<int>visi(n,0);
+
+            if(it.size() != 0){
+                map<int,int>mp;
+                for(auto el: it){
+                    mp[el]=1;
+                }
+                bool flg = true;
+                dfs_to_check(it[0],g,mp,visi,flg);
+                if(flg == true){
+                    int min_l = 1e9, max_r = -1;
+                    for(auto el: it){
+                        min_l = min(min_l,l[el]);
+                        max_r = max(max_r,r[el]);
+                    }
+                    ans.push_back(s.substr(min_l,max_r - min_l + 1));
+                }
+            }
+        }
+        return ans;
+
+    }
+};

@@ -40,6 +40,7 @@ For every problem, I aim to maintain consistency by following a structured break
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Shivanigupta00/DSA-Notes/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1540-can-convert-string-in-k-moves](https://github.com/Shivanigupta00/DSA-Notes/tree/master/1540-can-convert-string-in-k-moves) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Shivanigupta00/DSA-Notes/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3498-reverse-degree-of-a-string](https://github.com/Shivanigupta00/DSA-Notes/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -201,4 +202,8 @@ For every problem, I aim to maintain consistency by following a structured break
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0347-top-k-frequent-elements) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/Shivanigupta00/DSA-Notes/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->

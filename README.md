@@ -95,14 +95,17 @@ For every problem, I aim to maintain consistency by following a structured break
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0094-binary-tree-inorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Shivanigupta00/DSA-Notes/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0094-binary-tree-inorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Shivanigupta00/DSA-Notes/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0094-binary-tree-inorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Shivanigupta00/DSA-Notes/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Backtracking
 |  |
@@ -208,4 +211,8 @@ For every problem, I aim to maintain consistency by following a structured break
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/Shivanigupta00/DSA-Notes/tree/master/3498-reverse-degree-of-a-string) |
+## Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->

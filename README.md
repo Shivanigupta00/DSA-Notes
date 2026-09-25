@@ -97,12 +97,14 @@ For every problem, I aim to maintain consistency by following a structured break
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0145-binary-tree-postorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Shivanigupta00/DSA-Notes/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0145-binary-tree-postorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Shivanigupta00/DSA-Notes/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
@@ -110,6 +112,7 @@ For every problem, I aim to maintain consistency by following a structured break
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0145-binary-tree-postorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Shivanigupta00/DSA-Notes/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Backtracking
@@ -225,4 +228,5 @@ For every problem, I aim to maintain consistency by following a structured break
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->

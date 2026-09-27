@@ -73,6 +73,7 @@ For every problem, I aim to maintain consistency by following a structured break
 | [0051-n-queens](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0053-maximum-subarray) |
 | [0128-longest-consecutive-sequence](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0128-longest-consecutive-sequence) |
+| [0135-candy](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0198-house-robber) |
@@ -211,6 +212,7 @@ For every problem, I aim to maintain consistency by following a structured break
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0135-candy) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Shivanigupta00/DSA-Notes/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Shivanigupta00/DSA-Notes/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Heap (Priority Queue)

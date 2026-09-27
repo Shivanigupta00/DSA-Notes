@@ -83,6 +83,7 @@ For every problem, I aim to maintain consistency by following a structured break
 | [0347-top-k-frequent-elements](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0560-subarray-sum-equals-k) |
 | [0835-image-overlap](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0835-image-overlap) |
+| [0994-rotting-oranges](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0994-rotting-oranges) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shivanigupta00/DSA-Notes/tree/master/1248-count-number-of-nice-subarrays) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Shivanigupta00/DSA-Notes/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shivanigupta00/DSA-Notes/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -196,6 +197,7 @@ For every problem, I aim to maintain consistency by following a structured break
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0835-image-overlap) |
+| [0994-rotting-oranges](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
 | ------- |
@@ -243,6 +245,7 @@ For every problem, I aim to maintain consistency by following a structured break
 | [0102-binary-tree-level-order-traversal](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0994-rotting-oranges](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0994-rotting-oranges) |
 ## Design
 |  |
 | ------- |

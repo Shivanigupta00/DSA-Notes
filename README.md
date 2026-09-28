@@ -40,6 +40,7 @@ For every problem, I aim to maintain consistency by following a structured break
 | [0940-distinct-subsequences-ii](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0940-distinct-subsequences-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Shivanigupta00/DSA-Notes/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1540-can-convert-string-in-k-moves](https://github.com/Shivanigupta00/DSA-Notes/tree/master/1540-can-convert-string-in-k-moves) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shivanigupta00/DSA-Notes/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Shivanigupta00/DSA-Notes/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/Shivanigupta00/DSA-Notes/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
@@ -239,6 +240,7 @@ For every problem, I aim to maintain consistency by following a structured break
 | [0094-binary-tree-inorder-traversal](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0145-binary-tree-postorder-traversal) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shivanigupta00/DSA-Notes/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -254,4 +256,8 @@ For every problem, I aim to maintain consistency by following a structured break
 |  |
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shivanigupta00/DSA-Notes/tree/master/1248-count-number-of-nice-subarrays) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shivanigupta00/DSA-Notes/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->

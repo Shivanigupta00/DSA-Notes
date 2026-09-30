@@ -69,6 +69,7 @@ For every problem, I aim to maintain consistency by following a structured break
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0051-n-queens](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0051-n-queens) |
@@ -91,6 +92,7 @@ For every problem, I aim to maintain consistency by following a structured break
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0151-reverse-words-in-a-string) |
@@ -171,6 +173,7 @@ For every problem, I aim to maintain consistency by following a structured break
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0347-top-k-frequent-elements) |

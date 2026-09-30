@@ -79,6 +79,7 @@ For every problem, I aim to maintain consistency by following a structured break
 | [0169-majority-element](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0198-house-robber) |
+| [0229-majority-element-ii](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0287-find-the-duplicate-number) |
@@ -144,6 +145,7 @@ For every problem, I aim to maintain consistency by following a structured break
 | [0001-two-sum](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0560-subarray-sum-equals-k) |
@@ -175,6 +177,7 @@ For every problem, I aim to maintain consistency by following a structured break
 | ------- |
 | [0015-3sum](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0347-top-k-frequent-elements) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Shivanigupta00/DSA-Notes/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -210,11 +213,13 @@ For every problem, I aim to maintain consistency by following a structured break
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0347-top-k-frequent-elements) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0229-majority-element-ii) |
 ## Greedy
 |  |
 | ------- |

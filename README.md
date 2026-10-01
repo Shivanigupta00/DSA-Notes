@@ -34,6 +34,7 @@ For every problem, I aim to maintain consistency by following a structured break
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0151-reverse-words-in-a-string) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -245,6 +246,7 @@ For every problem, I aim to maintain consistency by following a structured break
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0145-binary-tree-postorder-traversal) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0589-n-ary-tree-preorder-traversal) |
@@ -267,5 +269,6 @@ For every problem, I aim to maintain consistency by following a structured break
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shivanigupta00/DSA-Notes/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->

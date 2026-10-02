@@ -35,6 +35,7 @@ For every problem, I aim to maintain consistency by following a structured break
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0151-reverse-words-in-a-string) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -47,6 +48,7 @@ For every problem, I aim to maintain consistency by following a structured break
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0198-house-robber) |
@@ -133,6 +135,7 @@ For every problem, I aim to maintain consistency by following a structured break
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0052-n-queens-ii) |
 ## Algorithm X
@@ -270,5 +273,6 @@ For every problem, I aim to maintain consistency by following a structured break
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0022-generate-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shivanigupta00/DSA-Notes/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->

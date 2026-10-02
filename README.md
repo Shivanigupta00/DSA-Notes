@@ -51,6 +51,7 @@ For every problem, I aim to maintain consistency by following a structured break
 | [0022-generate-parentheses](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0070-climbing-stairs) |
+| [0152-maximum-product-subarray](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0198-house-robber) |
 | [0940-distinct-subsequences-ii](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0940-distinct-subsequences-ii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Shivanigupta00/DSA-Notes/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -79,6 +80,7 @@ For every problem, I aim to maintain consistency by following a structured break
 | [0053-maximum-subarray](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0053-maximum-subarray) |
 | [0128-longest-consecutive-sequence](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0135-candy) |
+| [0152-maximum-product-subarray](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0198-house-robber) |

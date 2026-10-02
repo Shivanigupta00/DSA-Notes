@@ -92,6 +92,7 @@ For every problem, I aim to maintain consistency by following a structured break
 | [0347-top-k-frequent-elements](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0560-subarray-sum-equals-k) |
 | [0835-image-overlap](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0835-image-overlap) |
+| [0875-koko-eating-bananas](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0994-rotting-oranges) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shivanigupta00/DSA-Notes/tree/master/1248-count-number-of-nice-subarrays) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Shivanigupta00/DSA-Notes/tree/master/3483-unique-3-digit-even-numbers) |
@@ -175,6 +176,7 @@ For every problem, I aim to maintain consistency by following a structured break
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0268-missing-number](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0287-find-the-duplicate-number) |
+| [0875-koko-eating-bananas](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0875-koko-eating-bananas) |
 ## Bit Manipulation
 |  |
 | ------- |

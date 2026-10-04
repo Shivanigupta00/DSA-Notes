@@ -40,6 +40,7 @@ For every problem, I aim to maintain consistency by following a structured break
 | [0125-valid-palindrome](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0151-reverse-words-in-a-string) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0678-valid-parenthesis-string](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0940-distinct-subsequences-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Shivanigupta00/DSA-Notes/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1540-can-convert-string-in-k-moves](https://github.com/Shivanigupta00/DSA-Notes/tree/master/1540-can-convert-string-in-k-moves) |
@@ -55,6 +56,7 @@ For every problem, I aim to maintain consistency by following a structured break
 | [0070-climbing-stairs](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0198-house-robber) |
+| [0678-valid-parenthesis-string](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0940-distinct-subsequences-ii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Shivanigupta00/DSA-Notes/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Math
@@ -236,6 +238,7 @@ For every problem, I aim to maintain consistency by following a structured break
 |  |
 | ------- |
 | [0135-candy](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0135-candy) |
+| [0678-valid-parenthesis-string](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0678-valid-parenthesis-string) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Shivanigupta00/DSA-Notes/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Shivanigupta00/DSA-Notes/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Heap (Priority Queue)
@@ -262,6 +265,7 @@ For every problem, I aim to maintain consistency by following a structured break
 | [0094-binary-tree-inorder-traversal](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0145-binary-tree-postorder-traversal) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0678-valid-parenthesis-string](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shivanigupta00/DSA-Notes/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Breadth-First Search
 |  |
@@ -284,5 +288,6 @@ For every problem, I aim to maintain consistency by following a structured break
 | [0020-valid-parentheses](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shivanigupta00/DSA-Notes/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->

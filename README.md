@@ -105,6 +105,7 @@ For every problem, I aim to maintain consistency by following a structured break
 | [0875-koko-eating-bananas](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0994-rotting-oranges) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shivanigupta00/DSA-Notes/tree/master/1248-count-number-of-nice-subarrays) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Shivanigupta00/DSA-Notes/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Shivanigupta00/DSA-Notes/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shivanigupta00/DSA-Notes/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
@@ -179,6 +180,7 @@ For every problem, I aim to maintain consistency by following a structured break
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Shivanigupta00/DSA-Notes/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Shivanigupta00/DSA-Notes/tree/master/3483-unique-3-digit-even-numbers) |
 ## Binary Search
 |  |

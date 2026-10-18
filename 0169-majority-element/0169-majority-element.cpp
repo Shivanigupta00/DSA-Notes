@@ -2,27 +2,28 @@ class Solution {
 public:
     int majorityElement(vector<int>& nums) {
         int n = nums.size();
-        int cnt=0;
-        int el = 0;
+        int count = 0;
+        int curr_el = INT_MIN;
         for(int i = 0; i<n; i++){
-            if(cnt == 0){
-                cnt = 1;
-                el = nums[i];
-            }else if(el== nums[i]){
-                cnt++;
+            if(count == 0 ){
+                count = 1;
+                curr_el = nums[i];
+            }else if(curr_el == nums[i]){
+                count++;
             }else{
-                cnt--;
+                count--;
             }
+
         }
-        int cnt1= 0;
+        int cnt = 0;
         for(int i = 0; i<n; i++){
-            if(el== nums[i]){
-                cnt1++;
+            if(curr_el == nums[i]){
+                cnt++;
             }
         }
-        if(cnt1 > n/2){
-            return el;
+        if(cnt >n/2){
+            return curr_el;
         }
-        return -1;
+        return 0;
     }
 };

@@ -105,6 +105,7 @@ For every problem, I aim to maintain consistency by following a structured break
 | [0875-koko-eating-bananas](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0994-rotting-oranges) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shivanigupta00/DSA-Notes/tree/master/1248-count-number-of-nice-subarrays) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Shivanigupta00/DSA-Notes/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Shivanigupta00/DSA-Notes/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shivanigupta00/DSA-Notes/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Shivanigupta00/DSA-Notes/tree/master/3483-unique-3-digit-even-numbers) |
@@ -197,6 +198,7 @@ For every problem, I aim to maintain consistency by following a structured break
 | [0287-find-the-duplicate-number](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0410-split-array-largest-sum) |
 | [0875-koko-eating-bananas](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0875-koko-eating-bananas) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Shivanigupta00/DSA-Notes/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -211,6 +213,7 @@ For every problem, I aim to maintain consistency by following a structured break
 | [0268-missing-number](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0347-top-k-frequent-elements) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Shivanigupta00/DSA-Notes/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Shivanigupta00/DSA-Notes/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Shivanigupta00/DSA-Notes/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Shivanigupta00/DSA-Notes/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Prefix Sum

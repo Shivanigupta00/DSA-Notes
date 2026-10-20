@@ -1,37 +1,42 @@
 class Solution {
 public:
-    vector<vector<int>> threeSum(vector<int>& nums) {
-        int n = nums.size();
-        vector<vector<int>>ans;
-        sort(nums.begin(),nums.end());
-        for(int i = 0; i<n-2; i++){
-            if(i>0 && nums[i]==nums[i-1]) continue;
-
-            int left = i+1;
-            int right = n-1;
-
-            while(left <right){
-                int sum = nums[i] + nums[left]+nums[right];
-
-                if(sum == 0){
-                    ans.push_back({nums[i],nums[left],nums[right]});
-
-
-                    //skip duplicates
-                    while(left <right && nums[left]==nums[left+1]) left++;
-                    while(left <right && nums[right]==nums[right-1]) right--;
-
-                    left++;
-                    right--;
-                }else if( sum<0){
-                    left++;
-                }else{
-                    right--;  // sum too large,move right ptr
-                }
+    vector<vector<int>>ans;
+    void twoSum(vector<int>&nums, int target, int i, int j){
+        while(i<j){
+            if(nums[i]+nums[j] > target){
+                j--;
             }
+            else if(nums[i]+nums[j] < target){
+                i++;
+            }
+            else{
+                //remove duplicates
+                while(i<j &&  nums[i]==nums[i+1]) i++;
+                while(i<j && nums[j]==nums[j-1]) j--;
+                ans.push_back({-target, nums[i],nums[j]});
+                i++;
+                j--;
+            }
+        }
+    }
+    vector<vector<int>> threeSum(vector<int>& nums) {
+        int n  = nums.size();
+        if(n<3) return {};
+
+        ans.clear();
+        //sort
+        sort(nums.begin(),nums.end());
+
+        //fixing one ele
+        for(int i = 0; i<n; i++){
+            if(i>0 && nums[i]==nums[i-1]){
+                continue;
+            }
+            int n1 = nums[i];
+            int target =-n1;
+
+            twoSum(nums,target,i+1,n-1); // will find n2, n3
         }
         return ans;
     }
 };
-//O(N^2) 
-//O(1)

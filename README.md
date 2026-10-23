@@ -123,6 +123,7 @@ For every problem, I aim to maintain consistency by following a structured break
 | [0189-rotate-array](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0287-find-the-duplicate-number) |
+| [0876-middle-of-the-linked-list](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0876-middle-of-the-linked-list) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Shivanigupta00/DSA-Notes/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Tree
 |  |
@@ -331,4 +332,8 @@ For every problem, I aim to maintain consistency by following a structured break
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shivanigupta00/DSA-Notes/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->

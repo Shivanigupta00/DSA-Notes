@@ -184,6 +184,7 @@ For every problem, I aim to maintain consistency by following a structured break
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0021-merge-two-sorted-lists) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Shivanigupta00/DSA-Notes/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
@@ -335,5 +336,6 @@ For every problem, I aim to maintain consistency by following a structured break
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0021-merge-two-sorted-lists) |
 | [0876-middle-of-the-linked-list](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->

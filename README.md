@@ -86,6 +86,7 @@ For every problem, I aim to maintain consistency by following a structured break
 | [0004-median-of-two-sorted-arrays](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0051-n-queens](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0051-n-queens) |
@@ -120,6 +121,7 @@ For every problem, I aim to maintain consistency by following a structured break
 | ------- |
 | [0015-3sum](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0189-rotate-array) |

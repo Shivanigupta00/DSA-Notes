@@ -48,6 +48,7 @@ For every problem, I aim to maintain consistency by following a structured break
 | [1540-can-convert-string-in-k-moves](https://github.com/Shivanigupta00/DSA-Notes/tree/master/1540-can-convert-string-in-k-moves) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Shivanigupta00/DSA-Notes/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shivanigupta00/DSA-Notes/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2409-count-days-spent-together](https://github.com/Shivanigupta00/DSA-Notes/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Shivanigupta00/DSA-Notes/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/Shivanigupta00/DSA-Notes/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
@@ -70,6 +71,7 @@ For every problem, I aim to maintain consistency by following a structured break
 | [0189-rotate-array](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0268-missing-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shivanigupta00/DSA-Notes/tree/master/1248-count-number-of-nice-subarrays) |
+| [2409-count-days-spent-together](https://github.com/Shivanigupta00/DSA-Notes/tree/master/2409-count-days-spent-together) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shivanigupta00/DSA-Notes/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/Shivanigupta00/DSA-Notes/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Shivanigupta00/DSA-Notes/tree/master/3871-count-commas-in-range-ii) |

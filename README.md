@@ -67,6 +67,7 @@ For every problem, I aim to maintain consistency by following a structured break
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0007-reverse-integer) |
 | [0070-climbing-stairs](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0268-missing-number) |

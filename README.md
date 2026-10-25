@@ -108,6 +108,7 @@ For every problem, I aim to maintain consistency by following a structured break
 | [0875-koko-eating-bananas](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0994-rotting-oranges) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shivanigupta00/DSA-Notes/tree/master/1248-count-number-of-nice-subarrays) |
+| [1254-number-of-closed-islands](https://github.com/Shivanigupta00/DSA-Notes/tree/master/1254-number-of-closed-islands) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shivanigupta00/DSA-Notes/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Shivanigupta00/DSA-Notes/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shivanigupta00/DSA-Notes/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -147,6 +148,7 @@ For every problem, I aim to maintain consistency by following a structured break
 | [0145-binary-tree-postorder-traversal](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0145-binary-tree-postorder-traversal) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [1254-number-of-closed-islands](https://github.com/Shivanigupta00/DSA-Notes/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Shivanigupta00/DSA-Notes/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -250,10 +252,12 @@ For every problem, I aim to maintain consistency by following a structured break
 | ------- |
 | [0835-image-overlap](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0994-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/Shivanigupta00/DSA-Notes/tree/master/1254-number-of-closed-islands) |
 ## Union-Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0128-longest-consecutive-sequence) |
+| [1254-number-of-closed-islands](https://github.com/Shivanigupta00/DSA-Notes/tree/master/1254-number-of-closed-islands) |
 ## Counting
 |  |
 | ------- |
@@ -311,6 +315,7 @@ For every problem, I aim to maintain consistency by following a structured break
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0301-remove-invalid-parentheses) |
 | [0994-rotting-oranges](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0994-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/Shivanigupta00/DSA-Notes/tree/master/1254-number-of-closed-islands) |
 ## Design
 |  |
 | ------- |

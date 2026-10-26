@@ -353,4 +353,8 @@ For every problem, I aim to maintain consistency by following a structured break
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0021-merge-two-sorted-lists) |
 | [0876-middle-of-the-linked-list](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0876-middle-of-the-linked-list) |
+## Database
+|  |
+| ------- |
+| [0627-swap-sex-of-employees](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0627-swap-sex-of-employees) |
 <!---LeetCode Topics End-->

@@ -358,4 +358,5 @@ For every problem, I aim to maintain consistency by following a structured break
 | ------- |
 | [0182-duplicate-emails](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0182-duplicate-emails) |
 | [0627-swap-sex-of-employees](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0627-swap-sex-of-employees) |
+| [1204-last-person-to-fit-in-the-bus](https://github.com/Shivanigupta00/DSA-Notes/tree/master/1204-last-person-to-fit-in-the-bus) |
 <!---LeetCode Topics End-->

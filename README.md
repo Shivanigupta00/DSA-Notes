@@ -110,6 +110,7 @@ For every problem, I aim to maintain consistency by following a structured break
 | [0994-rotting-oranges](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0994-rotting-oranges) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shivanigupta00/DSA-Notes/tree/master/1248-count-number-of-nice-subarrays) |
 | [1254-number-of-closed-islands](https://github.com/Shivanigupta00/DSA-Notes/tree/master/1254-number-of-closed-islands) |
+| [1882-process-tasks-using-servers](https://github.com/Shivanigupta00/DSA-Notes/tree/master/1882-process-tasks-using-servers) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shivanigupta00/DSA-Notes/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Shivanigupta00/DSA-Notes/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shivanigupta00/DSA-Notes/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -288,6 +289,7 @@ For every problem, I aim to maintain consistency by following a structured break
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0347-top-k-frequent-elements) |
+| [1882-process-tasks-using-servers](https://github.com/Shivanigupta00/DSA-Notes/tree/master/1882-process-tasks-using-servers) |
 ## Bucket Sort
 |  |
 | ------- |

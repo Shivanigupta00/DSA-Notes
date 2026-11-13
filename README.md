@@ -129,6 +129,7 @@ For every problem, I aim to maintain consistency by following a structured break
 | [0125-valid-palindrome](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0876-middle-of-the-linked-list) |
@@ -195,6 +196,7 @@ For every problem, I aim to maintain consistency by following a structured break
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0021-merge-two-sorted-lists) |
+| [0234-palindrome-linked-list](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0234-palindrome-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Shivanigupta00/DSA-Notes/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
@@ -309,6 +311,7 @@ For every problem, I aim to maintain consistency by following a structured break
 | [0032-longest-valid-parentheses](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0145-binary-tree-postorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0234-palindrome-linked-list) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0856-score-of-parentheses) |
@@ -354,6 +357,7 @@ For every problem, I aim to maintain consistency by following a structured break
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0021-merge-two-sorted-lists) |
+| [0234-palindrome-linked-list](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0876-middle-of-the-linked-list) |
 ## Database
 |  |

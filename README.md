@@ -128,6 +128,7 @@ For every problem, I aim to maintain consistency by following a structured break
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0125-valid-palindrome) |
+| [0142-linked-list-cycle-ii](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0234-palindrome-linked-list) |
@@ -182,6 +183,7 @@ For every problem, I aim to maintain consistency by following a structured break
 | ------- |
 | [0001-two-sum](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0128-longest-consecutive-sequence) |
+| [0142-linked-list-cycle-ii](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0268-missing-number) |
@@ -247,6 +249,7 @@ For every problem, I aim to maintain consistency by following a structured break
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0142-linked-list-cycle-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
@@ -360,6 +363,7 @@ For every problem, I aim to maintain consistency by following a structured break
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0021-merge-two-sorted-lists) |
+| [0142-linked-list-cycle-ii](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0876-middle-of-the-linked-list) |
 ## Database

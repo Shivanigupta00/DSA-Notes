@@ -114,6 +114,7 @@ For every problem, I aim to maintain consistency by following a structured break
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shivanigupta00/DSA-Notes/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Shivanigupta00/DSA-Notes/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shivanigupta00/DSA-Notes/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Shivanigupta00/DSA-Notes/tree/master/3364-minimum-positive-sum-subarray) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Shivanigupta00/DSA-Notes/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shivanigupta00/DSA-Notes/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Shivanigupta00/DSA-Notes/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -238,6 +239,7 @@ For every problem, I aim to maintain consistency by following a structured break
 | [0410-split-array-largest-sum](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0560-subarray-sum-equals-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shivanigupta00/DSA-Notes/tree/master/1248-count-number-of-nice-subarrays) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Shivanigupta00/DSA-Notes/tree/master/3364-minimum-positive-sum-subarray) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -335,6 +337,7 @@ For every problem, I aim to maintain consistency by following a structured break
 |  |
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shivanigupta00/DSA-Notes/tree/master/1248-count-number-of-nice-subarrays) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Shivanigupta00/DSA-Notes/tree/master/3364-minimum-positive-sum-subarray) |
 ## Bracket Sequences
 |  |
 | ------- |

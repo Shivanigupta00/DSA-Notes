@@ -199,6 +199,7 @@ For every problem, I aim to maintain consistency by following a structured break
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0021-merge-two-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0234-palindrome-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Shivanigupta00/DSA-Notes/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
@@ -364,6 +365,7 @@ For every problem, I aim to maintain consistency by following a structured break
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0021-merge-two-sorted-lists) |
 | [0142-linked-list-cycle-ii](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0142-linked-list-cycle-ii) |
+| [0206-reverse-linked-list](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Shivanigupta00/DSA-Notes/tree/master/0876-middle-of-the-linked-list) |
 ## Database
